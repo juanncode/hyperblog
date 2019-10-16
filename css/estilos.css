@@ -1,8 +1,13 @@
 body {
   text-align: center;
   color: deeppink;
+
   font-family: "Franklin Gothic Medium";
 }
 .container {
   color: deeppink;
+  background: black;
+}
+.cabecera {
+  color: blue;
 }
